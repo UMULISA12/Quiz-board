@@ -7,3 +7,11 @@ function noAnswer(){
     }       
 
 }
+
+function answersChecked(questions, answers){
+
+    if (questions === answers){
+        return true;
+    }
+
+}
