@@ -57,3 +57,14 @@
     
     color: white;
   }
+  .panel-footer{
+    text-align: center;
+    }
+  
+    #marks{
+        text-align: center;
+    }
+  
+    p{
+      padding-top: 20px;
+    }
