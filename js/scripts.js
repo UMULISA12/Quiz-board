@@ -24,8 +24,6 @@
   
     $("#quiz").submit(function(event) {
   
-    
-  
     var Q1 = $("input:radio[name='Q1']:checked").val();
     var Q2 = $("input:radio[name='Q2']:checked").val();
     var Q3 = $("input:radio[name='Q3']:checked").val();
@@ -82,7 +80,7 @@
       }
         
         $("#quiz").hide();
-        $("#marks").text("Your score is: "+ total);
+        $("#marks").text("Your score is: "+ total+ "/90");
         $("#results").show();
      
       }
