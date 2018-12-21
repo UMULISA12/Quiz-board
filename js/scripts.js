@@ -34,3 +34,5 @@ $(document).ready(function() {
  
   if(noAnswer())
   {
+    alert("please answer all questions!");
+}
