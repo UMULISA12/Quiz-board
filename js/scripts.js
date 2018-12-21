@@ -20,3 +20,17 @@ $(document).ready(function() {
     var total = 0;
   
     $("#quiz").submit(function(event) {
+        var Q1 = $("input:radio[name='Q1']:checked").val();
+  var Q2 = $("input:radio[name='Q2']:checked").val();
+  var Q3 = $("input:radio[name='Q3']:checked").val();
+  var Q4 = $("input:radio[name='Q4']:checked").val();
+  var Q5 = $("input:radio[name='Q5']:checked").val();
+  var Q6 = $("input:radio[name='Q6']:checked").val();
+  var Q7 = $("input:radio[name='Q7']:checked").val();
+  var Q8 = $("input:radio[name='Q8']:checked").val();
+  var Q9 = $("input:radio[name='Q9']:checked").val();
+ 
+
+ 
+  if(noAnswer())
+  {
