@@ -1,3 +1,4 @@
+ // Business logic
 
     function noAnswer(){
         
@@ -16,7 +17,8 @@
         }
     
     }
-  
+
+   // User interface logic
   
   $(document).ready(function() {
   
