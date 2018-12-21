@@ -15,3 +15,8 @@ function answersChecked(questions, answers){
     }
 
 }
+$(document).ready(function() {
+
+    var total = 0;
+  
+    $("#quiz").submit(function(event) {
