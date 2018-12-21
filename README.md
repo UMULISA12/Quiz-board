@@ -13,6 +13,7 @@ This project is a quiz form whether it automatically correct the user and provid
 -internet browser
 
 #link to live site on GitHub Pages
+https://umulisa12.github.io/Quiz-board/
 
 #copyright and license information
 This work is licensed under MIT License © 2018 Quiz board. All Rights Reserved
