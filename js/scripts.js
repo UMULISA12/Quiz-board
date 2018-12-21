@@ -36,3 +36,38 @@ $(document).ready(function() {
   {
     alert("please answer all questions!");
 }
+
+if (answersChecked(Q1, "HTML")) {
+    total += 10;
+}
+
+if (answersChecked(Q2, "Js")) {
+    total += 10;
+}
+
+if (answersChecked(Q3, "Yes")) {
+    total += 10;
+}
+
+if (answersChecked(Q4, "cascading style sheets")) {
+    total += 10;
+}
+
+if (answersChecked(Q5, "script")) {
+    total += 10;
+}
+if (answersChecked(Q6, "pattern")) {
+  total += 10;
+}
+
+if (answersChecked(Q7, "local storage")) {
+  total += 10;
+}
+
+if (answersChecked(Q8, "Markup language")) {
+  total += 10;
+}
+
+if (answersChecked(Q9, "User defined tags")) {
+  total += 10;
+}
