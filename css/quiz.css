@@ -19,3 +19,41 @@
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
   }
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+   
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    
+    color: white;
+  }
+
+  /* Facebook */
+  .fa-github {
+   
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-linkedin {
+    
+    color: white;
+  }
