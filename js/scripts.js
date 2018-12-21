@@ -71,3 +71,13 @@ if (answersChecked(Q8, "Markup language")) {
 if (answersChecked(Q9, "User defined tags")) {
   total += 10;
 }
+
+$("#quiz").hide();
+$("#marks").text("Your score is: "+ total);
+$("#results").show();
+
+}
+event.preventDefault();
+});
+
+});
