@@ -15,4 +15,4 @@ This project is a quiz form whether it automatically correct the user and provid
 #link to live site on GitHub Pages
 
 #copyright and license information
-This work is licensed under MIT License © 2018 Quiz board. All Rights Reserved.
+This work is licensed under MIT License © 2018 Quiz board. All Rights Reserved
